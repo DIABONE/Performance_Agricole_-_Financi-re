@@ -1,5 +1,5 @@
 # Performance_Agricole_et_Financière
-
+![Image](https://github.com/DIABONE/Performance_Agricole_et_Financiere/blob/b53c6ab5d41ace80eb5d8e1cd8254b1b7e247fa4/image.png)
 L’analyse des données agricoles et financières sur la période 2019–2023 met en évidence plusieurs tendances majeures.
 
 Premièrement, les régions agricoles présentent des niveaux de performance très contrastés. Certaines zones affichent une productivité élevée, liée à des cultures adaptées et une meilleure utilisation des surfaces.
